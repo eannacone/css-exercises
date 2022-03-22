@@ -6,11 +6,22 @@ div {
   font-weight: bold;
  }
 
-p {
- background-color: (254, 44, 84);
+.odd {
+ background-color:rgb(254, 44, 84);
  font-family: Verdana, "DejVu Sans", sans-serif;
 }
 
 
+#pre .uno {
+  background-color: #000000;
+  color: #FFFFFF;
+}
 
+#pre .two {
+  background-color: #FFFF00    
+}
 
+#pre {
+  font-size; 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
